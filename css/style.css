@@ -1,0 +1,45 @@
+body {
+    background-color: #1c1c1c;
+}
+
+.avatar {
+    position: relative;
+    height: 96px;
+    width: 96px;
+}
+
+.avatar__conteudo {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 58px;
+    color: #ffffff;
+    background-color: #02887a;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.avatar__imagem {
+    objectfit: cover;
+    https: //srv.buysellads.com/ads/click/x/GTND42JNCYSDP5QUFTYLYKQNCYSD6KQMCV7D6Z3JCYSD5KQ7FTAD4K7KC6BDV5QJCVSIKKJMC6BDE53ECY7I6KJJHEYIK2JNCYSDCKJECTNCYBZ52K;
+    height: 100%;
+    width: 100%;
+}
+
+.avatar__badge {
+    position: absolute;
+    bottom: -9px;
+    left: 39px;
+    color: #000000;
+    background-color: #80b800;
+    height: 20px;
+    width: 20px;
+    border-radius: 59%;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
